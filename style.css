@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Mitr:wght@200;300;400;500;600;700&display=swap');
 
 body {
-      background-image: url(img/Fundo.png);
+      background-image: url(Fundo.png);
       height: 100vh;
       overflow: hidden;
       margin: 0;
